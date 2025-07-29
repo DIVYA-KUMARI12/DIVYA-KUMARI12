@@ -45,7 +45,7 @@
 
 ## 😂 Just a Meme (because why not?)
 
-![Meme](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+![Meme](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
 > 👩‍💻 When you finally fix the bug at 3 AM like a queen 👑
 ---
