@@ -45,7 +45,7 @@
 
 ## 😂 Just a Meme (because why not?)
 
-![Meme]![Girl coding at a computer](https://i.imgur.com/your-gif-url.gif).
+![Meme]![Girl coding at a computer] (https://i.imgur.com/your-gif-url.gif)
 > 👩‍💻 When you finally fix the bug at 3 AM like a queen 👑
 ---
 
