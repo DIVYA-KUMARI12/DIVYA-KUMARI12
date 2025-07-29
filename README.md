@@ -5,11 +5,11 @@
 👯 Looking to collaborate on: **Python-based ML/DL projects**  
 🤔 Looking for help with: **Advanced Computer Vision techniques**  
 💬 Ask me about:  
-🎓 B.Tech in Electronics & Communication  
+🎓 B.Tech in **Computer Science Engineering CGPA: 9.40** 
 📊 I'm a passionate **Data Science Enthusiast**  
 📫 Reach me at: **divyakumari84408@gmail.com**  
 😄 Pronouns: She/Her  
-⚡ Fun fact: I love tech but I’m also kind of lazy 😅
+⚡ Fun fact: I love tech, but I’m also kind of lazy 😅
 
 ---
 
@@ -45,8 +45,8 @@
 
 ## 😂 Just a Meme (because why not?)
 
-![Meme](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
-
+![Meme](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif).
+> 👩‍💻 When you finally fix the bug at 3 AM like a queen 👑
 ---
 
 ## 📌 Featured Projects
