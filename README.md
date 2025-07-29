@@ -1,16 +1,15 @@
-# 👋 Hi there, I'm Divya Kumari
+# 👋 Hi, I'm Divya Kumari
 
-🔭 I’m currently working on: **Computer Vision**  
-🌱 Currently learning: **Machine Learning** & **Deep Learning**  
-👯 Looking to collaborate on: **Python-based ML/DL projects**  
-🤔 Looking for help with: **Advanced Computer Vision techniques**  
+🔭 I’m currently working on: **Data Science & Analytics projects**  
+🌱 Currently learning: **Machine Learning, Deep Learning, and Data Visualization**  
+👯 Looking to collaborate on: **Python-based Data Science, ML, or analytics projects**  
+🤝 Open to help with: **Power BI dashboards, SQL queries, Python analytics, and Excel automation**  
 💬 Ask me about:  
-🎓 B.Tech in **Computer Science Engineering CGPA: 9.40** 
-📊 I'm a passionate **Data Science Enthusiast**  
+🎓 B.Tech in **Computer Science & Engineering (CSE)** with **9.40 CGPA**  
+💼 Data Science & Analytics Intern | Excel, Power BI, Python, SQL  
 📫 Reach me at: **divyakumari84408@gmail.com**  
 😄 Pronouns: She/Her  
-⚡ Fun fact: I love tech, but I’m also kind of lazy 😅
-
+⚡ Fun fact: I study at 3 AM, debug bugs in dreams 💤, and survive on both chai and coffee ☕💻
 ---
 
 ## 🌐 Connect with Me
@@ -52,13 +51,25 @@
 
 ## 📌 Featured Projects
 
-- 🧠 **Lung Cancer Detection** – Jupyter-based ML pipeline  
-- 🖼️ **Object Detection** – Real-time detection using Python  
-- 🎨 **Color Detection** – Simple CV tool  
-- 🧪 **Dummy Data Generator** – Generate test datasets in Python  
-- 🌪️ **Rasengan** – Notebook-based experiments  
-- ✨ **MTTN (Fork)** – Prompt generation using text-to-text mapping
+## 📌 Featured Projects
 
+- 📊 **Super Store Sales Dashboard**  
+  Time series-based sales analysis and forecasting to uncover valuable business insights.
+
+- 📈 **Analyzing Historical Stock Revenue Data**  
+  Built an interactive Power BI dashboard for visualizing and interpreting stock trends.
+
+- 🎥 **Movielens Recommendation System**  
+  Applied collaborative filtering to suggest personalized movie choices using user rating data.
+
+- 🌸 **Iris Flower Classification**  
+  A supervised machine learning project to classify iris flowers using a Decision Tree and KNN.
+
+- 💬 **Social Media Sentiment Analysis**  
+  Analyzed Twitter posts using NLP to determine sentiment trends using Python & TextBlob.
+
+- 🛍️ **Customer Purchase Prediction**  
+  A Decision Tree Classifier model predicting customer purchases based on demographics and behavior.
 ---
 
-🌱 _Learning, building, growing — one line of code at a time._
+💡 _Quiet progress, constant learning — building my future one project at a time._
