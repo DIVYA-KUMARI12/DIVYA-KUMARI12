@@ -45,7 +45,7 @@
 
 ## 😂 Just a Meme (because why not?)
 
-![Girl coding at a computer](https://i.imgur.com/5cWv6gE.gif)
+![Meme](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 > 👩‍💻 When you finally fix the bug at 3 AM like a queen 👑
 ---
