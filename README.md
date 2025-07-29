@@ -35,7 +35,7 @@
 
 ## ✍️ Dev Quote
 
-> “Data is the new oil, but insight is the spark.” 🔥
+> “I don’t just collect data — I learn from it, build with it, and grow because of it.” 🔥
 ---
 
 ## 😂 Just a Meme (because why not?)
