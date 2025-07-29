@@ -45,12 +45,9 @@
 
 ## 😂 Just a Meme (because why not?)
 
-## 😂 Just a Meme (because why not?)
-
 ![Girl coding at a computer](https://media.tenor.com/ZbXNHGE2j6YAAAAC/anime-computer-gurl.gif)
 
 > 👩‍💻 When you finally fix the bug at 3 AM like a queen 👑
-
 ---
 
 ## 📌 Featured Projects
