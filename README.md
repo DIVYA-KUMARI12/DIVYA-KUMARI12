@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Divya Kumari
+# 👋 Hi, I'm Divya Kumari ✨
 
 🔭 I’m currently working on: **Data Science & Analytics projects**  
 🌱 Currently learning: **Machine Learning, Deep Learning, and Data Visualization**  
@@ -15,7 +15,6 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divya-kumari11)
-
 ---
 
 ## 💻 Tech Stack
@@ -26,20 +25,17 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
 ---
 
 ## 📈 GitHub Stats
 
 ![Divya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIVYA-KUMARI12&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYA-KUMARI12&layout=compact&theme=radical)
-
 ---
 
 ## ✍️ Dev Quote
 
 > “Data is the new oil, but insight is the spark.” 🔥
-
 ---
 
 ## 😂 Just a Meme (because why not?)
@@ -48,8 +44,6 @@
 
 > 👩‍💻 When you finally fix the bug at 3 AM like a queen 👑
 ---
-
-## 📌 Featured Projects
 
 ## 📌 Featured Projects
 
