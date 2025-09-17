@@ -14,7 +14,8 @@
 
 ## 🌐 Connect with Me
 
-![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIVYA-KUMARI12&show_icons=true&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divya-kumari11)
+
 
 ---
 
