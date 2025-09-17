@@ -29,8 +29,9 @@
 
 ## 📈 GitHub Stats
 
-![Divya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIVYA-KUMARI12&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYA-KUMARI12&layout=compact&theme=radical)
+![Divya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIVYA-KUMARI12&show_icons=true&theme=radical&cache_seconds=86400)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYA-KUMARI12&layout=compact&theme=radical&cache_seconds=86400)
+
 ---
 
 ## ✍️ Dev Quote
